@@ -33,7 +33,7 @@ export default {
       )
       console.log(response.data)
     },
-    registerTest () {
+  registerTest () {
       console.log('register button was clicked', this.email, this.password)
     }
   },
